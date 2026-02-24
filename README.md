@@ -11,7 +11,7 @@
 ## Working Sheet
 
 1. Copy raw data into Working Sheet  
-   ![Copy raw data](assets/images/1.Raw data to Worksheet.png)
+   ![Copy raw data](assets/images/1.Raw_data_to_Worksheet.png)
 
 2. Data overview with filter  
    ![Data overview filter](images/data_overview_filter.png)
