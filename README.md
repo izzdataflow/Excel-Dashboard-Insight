@@ -28,7 +28,7 @@
    =IF(L2>=31,"Middle Age",IF(L2<31,"Adolescent","Invalid"))
    =IF(L2>54,"Old",IF(L2>31,"Middle Age",IF(L2<31,"Adolescent","Invalid")))
    ```
-   [Age bracket](assets/images/5.New_field_AgeBracket.png)
+    [Age bracket](assets/images/5.New_field_AgeBracket.png)
 
 ---
 
